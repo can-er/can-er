@@ -1,7 +1,7 @@
 ### Hi there 👋
 
- - :computer: Young Computer Science graduated
- - :mortar_board: Cybersec enthousiast & bug hunter
+ - :mortar_board: Young Computer Science graduated
+ - :computer: Cybersec enthousiast & bug hunter
  - :books: Looking for new challenges
 
 
