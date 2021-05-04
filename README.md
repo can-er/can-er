@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-#### - :computer: Young Computer Science graduated
-#### - :mortar_board: Cybersec enthousiast & bug hunter
-#### - :books: Looking for new challenges
+ - :computer: Young Computer Science graduated
+ - :mortar_board: Cybersec enthousiast & bug hunter
+ - :books: Looking for new challenges
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=can-er&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
