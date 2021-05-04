@@ -20,10 +20,7 @@ can-er@github:~$ whoami
 > Do not hesitate to contact me via social networks.
 
 <br>
-[<img align="left" alt="can-er | OBB " width="38px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_4357dd9bb894bc70c2220d88f348ac8b/open-bug-bounty.png" />][openbugbounty]
 
-
-[openbugbounty]: https://www.openbugbounty.org/researchers/GorillaGlue/
 <!--
 **can-er/can-er** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
