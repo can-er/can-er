@@ -1,9 +1,10 @@
 ### Hi there 👋
 
->> About me 
+> About me 
  - :mortar_board: Young Computer Science graduated
  - :computer: Cybersec enthousiast & bug hunter
  - :books: Looking for new challenges
+ - :globe_with_meridians: Actively promoting Devops
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=can-er&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
