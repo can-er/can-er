@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 ```
-can-er@github:~$whoami
+can-er@github:~$ whoami
 ```
  - :mortar_board: Young Computer Science graduated
  - :computer: Cybersec enthousiast & bug hunter
