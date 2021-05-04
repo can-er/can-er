@@ -1,8 +1,7 @@
 ### Hi there 👋 
 
-#### About me
 ```
-Hello
+can-er@github:~$whoami
 ```
  - :mortar_board: Young Computer Science graduated
  - :computer: Cybersec enthousiast & bug hunter
@@ -10,6 +9,7 @@ Hello
  - :globe_with_meridians: Actively promoting Devops
 
 
+# Do not hesitate to contact me via social networks.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=can-er&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **can-er/can-er** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
