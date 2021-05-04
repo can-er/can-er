@@ -8,9 +8,10 @@ can-er@github:~$ whoami
  - :books: Looking for new challenges
  - :globe_with_meridians: Actively promoting Devops
 
-
-# Do not hesitate to contact me via social networks.
+-------------------------------------------------
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=can-er&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+> Do not hesitate to contact me via social networks.
+
 <!--
 **can-er/can-er** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
