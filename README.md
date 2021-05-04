@@ -2,18 +2,19 @@
 
 ```
 can-er@github:~$ whoami
- - :mortar_board: Young Computer Science graduated
- - :computer: Cybersec enthousiast & bug hunter
- - :books: Looking for new challenges
- - :globe_with_meridians: Actively promoting Devops
- - :open_book: Currently preparing for CCNA 200-301
+ - Young Computer Science graduated
+ - Cybersec enthousiast & bug hunter
+ - Looking for new challenges
+ - Actively promoting Devops
+ - Currently preparing for CCNA 200-301
 ```
+<!-- 
  - :mortar_board: Young Computer Science graduated
  - :computer: Cybersec enthousiast & bug hunter
  - :books: Looking for new challenges
  - :globe_with_meridians: Actively promoting Devops
  - :open_book: Currently preparing for CCNA 200-301
-
+-->
 -------------------------------------------------
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=can-er&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 > Do not hesitate to contact me via social networks.
