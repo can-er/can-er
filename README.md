@@ -1,6 +1,6 @@
-> Hi there 👋 
+### Hi there 👋 
 
-### About me
+#### About me
 
  - :mortar_board: Young Computer Science graduated
  - :computer: Cybersec enthousiast & bug hunter
