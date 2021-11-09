@@ -5,8 +5,7 @@ can-er@github:~$ whoami
 + Young Computer Science graduated
 + Cybersec enthousiast & bug hunter
 + Looking for new challenges
-+ Actively promoting Devops
-+ Currently preparing for CCNA 200-301
++ Actively promoting DevOps
 ```
 <!-- 
  - :mortar_board: Young Computer Science graduated
