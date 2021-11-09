@@ -13,7 +13,7 @@ can-er@github:~$ whoami
  - :computer: Cybersec enthousiast & bug hunter
  - :books: Looking for new challenges
  - :globe_with_meridians: Actively promoting Devops
- - :open_book: Currently preparing for CCNA 200-301
+ - :open_book: Enjoy
 -->
 -------------------------------------------------
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=can-er&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
