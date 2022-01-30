@@ -6,6 +6,7 @@ can-er@github:~$ whoami
 + Cybersec enthousiast & bug hunter
 + Looking for new challenges
 + Actively promoting DevOps
++ Azure - Kubernetes - Terraform - Ansible certified
 ```
 <!-- 
  - :mortar_board: Young Computer Science graduated
